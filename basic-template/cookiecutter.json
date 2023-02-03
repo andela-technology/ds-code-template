@@ -1,0 +1,4 @@
+{
+    "package_name": "Name of the package. All LOWERCASE dash separated such as: my-example-package.",
+    "module_name": "Name of the package's top level python module. All LOWERCASE underscore separated such as: my_example_package"
+}

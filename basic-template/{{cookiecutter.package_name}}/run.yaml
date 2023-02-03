@@ -1,0 +1,2 @@
+# Clarifying comment indicating WHY this variable is needed or has this value.
+properly_named_variable: "scientifically_explainable_value"
